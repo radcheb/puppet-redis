@@ -2,7 +2,7 @@
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/arioch/puppet-redis.png?branch=master)](https://travis-ci.org/arioch/puppet-redis)
+[![Build Status](https://travis-ci.org/radcheb/puppet-redis.png?branch=master)](https://travis-ci.org/radcheb/puppet-redis)
 
 ## Example usage
 
